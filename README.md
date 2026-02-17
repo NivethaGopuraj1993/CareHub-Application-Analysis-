@@ -1,4 +1,4 @@
-# CareHub-Application-Analysis-
+# CareHub Healthcare Appointment & Test Booking Analysis
 SQL analysis of healthcare appointment and blood test booking trends
 
 **Healthcare Appointment & Blood Test Booking Analysis**
