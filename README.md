@@ -18,7 +18,6 @@ The dataset covers appointments from December 2024 to December 2025.
 	•	Examine cancellation patterns
 	•	Prepare structured data for dashboard reporting
 
-⸻
 
 **Database Structure**
 
