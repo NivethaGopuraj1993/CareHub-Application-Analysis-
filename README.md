@@ -112,4 +112,5 @@ Tools Used:
 	•	Revenue generated primarily from completed bookings
 
 Dashboard Preview
+	<img width="1920" height="1080" alt="CareHub_PB_Dashboard" src="https://github.com/user-attachments/assets/c4eedf13-a267-4129-89fb-04c9d1888544" />
 
