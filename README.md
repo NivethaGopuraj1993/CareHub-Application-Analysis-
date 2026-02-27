@@ -88,3 +88,28 @@ This project demonstrates:
 	•	Data aggregation & trend analysis using SQL
 	•	Reporting dataset creation
 	•	Business-oriented interpretation of healthcare data
+
+Power BI Dashboard – Healthcare Diagnostic Performance
+
+This interactive dashboard analyzes:
+	•	Total Appointments
+	•	Revenue Performance
+	•	Cancellation Rate
+	•	Physician Workload
+	•	Test Category Trends
+	•	Monthly Booking Patterns
+
+Tools Used:
+	•	Power BI
+	•	DAX
+	•	Data Modeling
+	•	Excel (Data Cleaning)
+
+ Key Business Insights:
+	•	15 total appointments recorded
+	•	6.67% cancellation rate
+	•	Hematology & Cardiology are leading categories
+	•	Revenue generated primarily from completed bookings
+
+Dashboard Preview
+
